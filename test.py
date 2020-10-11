@@ -1,12 +1,12 @@
 def findMax(a, b, c):
         if a>b:
-                big=a 
+                biggest=a 
         else:
-                big=b
+                biggest=b
         if c>biggest:
-                big=c
+                biggest=c
 
-        return big
+        return biggset
 
 a = int(input("첫 번째 숫자 입력:"))
 b = int(input("두 번째 숫자 입력:"))
