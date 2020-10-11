@@ -3,6 +3,7 @@ def findMax(a, b, c):
                 biggest=a 
         else:
                 biggset=b
+                
         if c>biggset:
                 biggest=c
 
